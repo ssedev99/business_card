@@ -7,5 +7,4 @@
 - Modifier 객체를 활용하여 Compose 요소를 맞춤설정
 
 ### 결과
-![Screenshot1](https://github.com/user-attachments/assets/33f76c34-e488-4470-ad9e-746b652815b7)
-![Image](https://github.com/user-attachments/assets/64d665ba-4907-4c17-8409-95389c4980ce)
+![Image](https://github.com/user-attachments/assets/3fa37882-662b-437c-bd74-2ee6300b9219)
